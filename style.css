@@ -1,0 +1,23 @@
+body{
+  background-color: #B6174B;
+}
+.container{
+  background-color:#FAFFE8;
+}
+
+
+#Buttons{
+  float: right;
+}
+
+h2{
+  color: white;
+  text-align: center;
+  border-radius: 25px;
+}
+.row{
+  height:150px;
+  padding-top: 50px;
+  background-image: url("headerbg.jpeg");
+
+}
